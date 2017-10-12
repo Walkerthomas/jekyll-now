@@ -20,6 +20,8 @@ html {
 body {
 	background-image: url("/images/star-wars-the-last-jedi-poster.jpg");
 	background-repeat:no-repeat;
+	background-attachment: fixed;
+    	background-position: center;
   	font: 18px/1.4 $georgia;
   	color: $white;
 }
