@@ -17,6 +17,13 @@ html {
   font-size: 100%;
 }
 
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid purple;
+}
+
 body {
 	background-image: url("/images/6R3boOvvH0IMw/giphy.gif.jpg");
 	// center and full page background
