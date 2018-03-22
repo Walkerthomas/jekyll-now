@@ -18,12 +18,12 @@ html {
 }
 
 .post {
-table {
-  table-layout: fixed;
-  width: 100%;
-  border-collapse: collapse;
-  border: 2px solid black;
-}
+	table, th, td {
+	  table-layout: fixed;
+	  width: 100%;
+	  border-collapse: collapse;
+	  border: 2px solid black;
+	}
 }
 
 body {
